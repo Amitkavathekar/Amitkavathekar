@@ -4,7 +4,7 @@
   <h3>Computer Software Engineer | Frontend Enthusiast</h3>
   <p>
     <a href="https://pranavrao-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://linkedin.com/in/pranav-rao-09a79b231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="[https://linkedin.com/in/pranav-rao-09a79b231](https://www.linkedin.com/in/amitkavathekar/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 </div>
 
