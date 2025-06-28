@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋, I'm Pranav Rao</div>
+# <div align="center">Hi 👋, Amit Kavathekar</div>
 
 <div align="center">
   <h3>Computer Software Engineer | Frontend Enthusiast</h3>
