@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, Amit Kavathekar</div>
 
 <div align="center">
-  <h3>Computer Software Engineer | Frontend Enthusiast</h3>
+  <h3>web Devloper | Frontend Enthusiast</h3>
   <p>
     <a href="https://amitt-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/amitkavathekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,10 +10,17 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working at [Gesix Solutions](https://gesixsolutions.com/) as Junior Frontend Developer
-- 🚀 I'm looking to collaborate on [Pollify](https://github.com/Ray541/pollify.git)
-- 🤝 I'm looking for help with [Pollify](https://github.com/Ray541/pollify.git)
-- 📂 All of my projects are available at [my portfolio](https://pranavrao-portfolio.vercel.app/)
+Sure, here's your information rewritten in the same style:
+
+---
+
+* 🔭 I'm currently a **Fresher**, recently completed internships at [CodSoft](https://codsoft.in/) and [CipherByte Technologies](https://cipherbytetechnologies.in/).
+* 🚀 I'm looking to collaborate on exciting **Frontend** or **Full-Stack** development projects.
+* 🤝 I'm open to learning and contributing to real-world applications and open-source repositories.
+* 📂 All of my projects are available at [my portfolio](https://amitt-portfolio.vercel.app/)
+
+---
+
 
 ## 🛠️ Tech Stack and Tools
 
