@@ -10,16 +10,12 @@
 
 ## 👨‍💻 About Me
 
-Sure, here's your information rewritten in the same style:
-
----
 
 * 🔭 I'm currently a **Fresher**, recently completed internships at [CodSoft](https://codsoft.in/) and [CipherByte Technologies](https://cipherbytetechnologies.in/).
 * 🚀 I'm looking to collaborate on exciting **Frontend** or **Full-Stack** development projects.
 * 🤝 I'm open to learning and contributing to real-world applications and open-source repositories.
 * 📂 All of my projects are available at [my portfolio](https://amitt-portfolio.vercel.app/)
 
----
 
 
 ## 🛠️ Tech Stack and Tools
