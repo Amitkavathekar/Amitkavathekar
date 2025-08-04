@@ -49,7 +49,30 @@
 
 
 
-<div align="center"> <!-- 🔁 Total Contributions, ⭐ Stars, 📦 Repos --> <img src="https://github-readme-stats.vercel.app/api?username=Amitkavathekar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" /> <!-- 🧠 Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkavathekar&layout=compact&theme=tokyonight" alt="Top Languages" /> <!-- 🔥 Contribution Streak --> <img src="https://github-readme-streak-stats.herokuapp.com?user=Amitkavathekar&theme=tokyonight" alt="GitHub Streak" /> <!-- 🏆 Trophies (Optional but cool looking) --> <img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> <!-- 👁️ Profile Views --> <img src="https://komarev.com/ghpvc/?username=Amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" /> </div>
----
+## 📊 GitHub Stats
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" /> </div>
+<div align="center">
+
+  <!-- ⭐ GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitkavathekar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+
+  <!-- 🧠 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkavathekar&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+
+  <br /><br />
+
+  <!-- 🔥 Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amitkavathekar&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="80%" />
+
+  <br /><br />
+
+  <!-- 🏆 GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+  <br /><br />
+
+  <!-- 👁️ Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+
+</div>
+
