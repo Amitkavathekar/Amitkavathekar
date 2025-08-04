@@ -46,8 +46,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amittkavathekar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amittkavathekar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=amittkavathekar&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkavathekar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amitkavathekar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=amitkavathekar&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </div>
 
 ---
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=amittkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" /> </div>
