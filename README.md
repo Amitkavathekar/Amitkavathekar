@@ -1,22 +1,23 @@
 # <div align="center">Hi 👋, Amit Kavathekar</div>
 
 <div align="center">
-  <h3>Web Devloper | Frontend Enthusiast</h3>
+  <h3>Web Developer | Frontend Enthusiast</h3>
   <p>
-    <a href="https://amitt-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/amitkavathekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://amit-rtst.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/amitkavathekar/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
   </p>
 </div>
 
 ## 👨‍💻 About Me
 
-
-* 🔭 I'm currently a **Fresher**, recently completed internships at [CodSoft](https://codsoft.in/) and [CipherByte Technologies](https://cipherbytetechnologies.in/).
+* 🔭 I'm currently a **Fresher**, recently completed internships at [Oasis Infobyte](https://oasisinfobyte.com/)
 * 🚀 I'm looking to collaborate on exciting **Frontend** or **Full-Stack** development projects.
 * 🤝 I'm open to learning and contributing to real-world applications and open-source repositories.
-* 📂 All of my projects are available at [my portfolio](https://amitt-portfolio.vercel.app/)
-
-
+* 📂 All of my projects are available at [my portfolio](https://amit-rtst.vercel.app/)
 
 ## 🛠️ Tech Stack and Tools
 
@@ -32,20 +33,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-
-
-<!-- <div align="center>
+<!--
+<div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</div> -->
-
-
-
-
-
+</div>
+-->
 
 ## 📊 GitHub Stats
 
@@ -73,4 +69,3 @@
   <img src="https://komarev.com/ghpvc/?username=Amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 
 </div>
-
