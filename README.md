@@ -35,9 +35,6 @@ https://home-made-food-kocv.vercel.app/
 - Responsive UI with Tailwind + Shadcn UI  
 
 **Tech Stack**
-
-React.js • TypeScript • Tailwind CSS • Shadcn UI
-
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
@@ -57,9 +54,6 @@ https://amit-rtst.vercel.app/
 - Project showcase & developer profile  
 
 **Tech Stack**
-
-React.js • TypeScript • Tailwind CSS • Shadcn UI
-
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
@@ -80,9 +74,6 @@ https://livecodeio.vercel.app/
 - Export to PDF & copy features  
 
 **Tech Stack**
-
-HTML • CSS • JavaScript • Ace Editor
-
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -150,15 +141,25 @@ HTML • CSS • JavaScript • Ace Editor
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amitkavathekar&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amitkavathekar&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkavathekar&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkavathekar&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Amitkavathekar&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkavathekar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
