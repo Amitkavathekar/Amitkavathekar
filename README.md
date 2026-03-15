@@ -19,31 +19,11 @@
 * 🤝 I'm open to learning and contributing to real-world applications and open-source repositories.
 * 📂 All of my projects are available at [my portfolio](https://amit-rtst.vercel.app/)
 
----
+**Skills**
 
-## 💡 Skills
-
-**Languages**
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- SASS
-
-**Frameworks & Libraries**
-- React.js
-- Redux Toolkit
-- Axios
-- Tailwind CSS
-- Bootstrap
-- Shadcn UI
-- Vite
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Vercel
-- Figma
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS  
+Frameworks & Libraries: React.js, Redux Toolkit, Axios, Tailwind CSS, Bootstrap, Shadcn UI, Vite  
+Tools & Platforms: Git & GitHub, VS Code, Vercel, Figma  
 
 ---
 
