@@ -19,6 +19,34 @@
 * 🤝 I'm open to learning and contributing to real-world applications and open-source repositories.
 * 📂 All of my projects are available at [my portfolio](https://amit-rtst.vercel.app/)
 
+---
+
+## 💡 Skills
+
+**Languages**
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- SASS
+
+**Frameworks & Libraries**
+- React.js
+- Redux Toolkit
+- Axios
+- Tailwind CSS
+- Bootstrap
+- Shadcn UI
+- Vite
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Vercel
+- Figma
+
+---
+
 ## 🛠️ Tech Stack and Tools
 
 <div align="center">
@@ -61,10 +89,9 @@
   <br /><br />
 
   <!-- 🏆 GitHub Trophies -->
-  <!-- 🏆 GitHub Trophies -->
-<!-- <div align="center">
+  <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-</div> -->
+  </div> -->
 
   <!-- 👁️ Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
