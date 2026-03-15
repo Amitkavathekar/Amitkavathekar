@@ -103,10 +103,9 @@ Real-time code editor with live preview and syntax highlighting.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
