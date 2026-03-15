@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Amit+Kavathekar;Frontend+Developer;React+Developer;JavaScript+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Amit+Kavathekar;" />
 </p>
 
 <h3 align="center">Frontend Developer | React Developer | JavaScript Enthusiast</h3>
@@ -95,15 +95,6 @@ Real-time code editor with live preview and syntax highlighting.
 <p align="center">
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkavathekar&theme=tokyonight"/>
-
-</p>
-
----
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 ---
