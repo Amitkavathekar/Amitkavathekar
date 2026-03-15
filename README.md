@@ -1,7 +1,7 @@
-# <div align="center">Hi 👋, Amit Kavathekar</div>
-
 <div align="center">
+  <h1>Hi 👋 I'm Amit Kavathekar</h1>
   <h3>Web Developer | Frontend Enthusiast</h3>
+
   <p>
     <a href="https://amit-rtst.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
@@ -11,6 +11,8 @@
     </a>
   </p>
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -49,6 +51,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack and Tools
@@ -75,29 +78,22 @@
 </div>
 -->
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- ⭐ GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitkavathekar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amitkavathekar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
 
-  <!-- 🧠 Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkavathekar&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkavathekar&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
-  <br /><br />
+<br /><br />
 
-  <!-- 🔥 Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amitkavathekar&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Amitkavathekar&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="80%" />
 
-  <br /><br />
+<br /><br />
 
-  <!-- 🏆 GitHub Trophies -->
-  <!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amitkavathekar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-  </div> -->
-
-  <!-- 👁️ Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+<img src="https://komarev.com/ghpvc/?username=Amitkavathekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 
 </div>
