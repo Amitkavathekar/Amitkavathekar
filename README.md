@@ -108,7 +108,7 @@ Real-time code editor with live preview and syntax highlighting.
 
 </p>
 ---
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitkavathekar&theme=github-compact"/>
+<img src="https://raw.githubusercontent.com/Amitkavathekar/Amitkavathekar/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 
 # 📈 Contribution Graph
