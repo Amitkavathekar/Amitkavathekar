@@ -81,7 +81,10 @@ Real-time code editor with live preview and syntax highlighting.
 </p>
 
 ---
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast&center=true&width=500&height=50">
+
+---
 
 # 📊 GitHub Stats
 
@@ -98,6 +101,7 @@ Real-time code editor with live preview and syntax highlighting.
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkavathekar&theme=tokyonight"/>
 
 </p>
+
 ---
 
 # 🐍 Contribution Snake
@@ -107,9 +111,18 @@ Real-time code editor with live preview and syntax highlighting.
 <img src="https://raw.githubusercontent.com/Amitkavathekar/Amitkavathekar/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
 ---
+
+# 🧊 3D Contribution Graph
+
+<p align="center">
+
 <img src="https://raw.githubusercontent.com/Amitkavathekar/Amitkavathekar/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
+</p>
+
+---
 
 # 📈 Contribution Graph
 
