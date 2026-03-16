@@ -81,6 +81,7 @@ Real-time code editor with live preview and syntax highlighting.
 </p>
 
 ---
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast&center=true&width=500&height=50">
 
 # 📊 GitHub Stats
 
