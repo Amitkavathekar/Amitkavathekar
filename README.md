@@ -99,21 +99,19 @@ Real-time code editor with live preview and syntax highlighting.
 </p>
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitkavathekar&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Amitkavathekar/Amitkavathekar/output/github-contribution-grid-snake.svg"/>
+
+</p>
+---
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitkavathekar&theme=tokyo-night"/>
 
 </p>
 
