@@ -77,6 +77,9 @@ Real-time code editor with live preview and syntax highlighting.
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,framer,bootstrap,html,css,sass,json,git,github,vscode,vercel,vite,npm,postman,figma" />
+<img src="https://cdn.simpleicons.org/framer" height="48" />
+<img src="https://cdn.simpleicons.org/framer/black" height="48" />
+<img src="https://cdn.simpleicons.org/json/black" height="48" />
 
 </p>
 
