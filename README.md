@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Amit+Kavathekar;" />
 </p>
 
-<h3 align="center">Frontend Developer | React Developer | JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Developer | React Developer </h3>
 
 <p align="center">
 <a href="https://amit-rtst.vercel.app/">
