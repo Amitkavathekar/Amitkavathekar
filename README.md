@@ -21,7 +21,7 @@
 
 - 🚀 Frontend Developer passionate about building modern web applications  
 - 💼 Completed **Frontend Development Internship at Oasis Infobyte**  
-- ⚡ Skilled in **JavaScript, React, TypeScript, Tailwind CSS**  
+- ⚡ Skilled in **Next.js, React, TypeScript, JavaScript, Tailwind CSS**  
 - 🌱 Currently learning **MERN Stack & System Design**  
 - 🤝 Open to **Frontend / Full Stack Developer Opportunities**
 
@@ -76,7 +76,7 @@ Real-time code editor with live preview and syntax highlighting.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,html,css,git,github,vscode,vercel,figma,vite" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,bootstrap,html,css,sass,git,github,vscode,vercel,figma,vite,postman,npm,chrome,framer,json" />
 
 </p>
 
