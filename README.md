@@ -76,11 +76,12 @@ Real-time code editor with live preview and syntax highlighting.
 
 <p align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,bootstrap,html,css,sass,git,github,vscode,vercel,vite,npm,postman,figma" />  
-  <img src="https://cdn.simpleicons.org/framer" height="48" style="margin-left:10px;" />
-  <img src="https://cdn.simpleicons.org/json" height="48" style="margin-left:10px;" />
-</p>
+<div style="display:flex; align-items:center; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,bootstrap,html,css,sass,git,github,vscode,vercel,vite,npm,postman,figma" />
+  
+  <img src="https://cdn.simpleicons.org/framer" height="48" />
+  <img src="https://cdn.simpleicons.org/json" height="48" />
+</div>
 </p>
 
 ---
